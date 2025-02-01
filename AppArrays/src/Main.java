@@ -1,3 +1,5 @@
+package src;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -21,7 +23,7 @@ public class Main {
 
 
         //Hacer doble bucle for/for
-
+        System.out.println(config[XTEST][CAMB]);
 
         //CLAVE: DESARROLLO
 
